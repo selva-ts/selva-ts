@@ -11,4 +11,4 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on .Netcore & React
 - 💬 Ask me about C#, SQL
 - 📫 How to reach me: twitter.com/selvats
-- 😄 Pronouns: he/him
+- 📚 Stackoverflow profile : https://stackoverflow.com/users/311255/selvas

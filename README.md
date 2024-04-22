@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👀 I’m interested in C#, .Netcore, JavaScript, React, Vue, Angular and Python
+- 👀 I’m interested in C#, .Netcore, JavaScript, React, Vue.js, Angular and Python
 - 🌱 I’m currently learning Machine Learning, Web3
 - 👯 I’m looking to collaborate on .Netcore & React
 - 💬 Ask me about C#, SQL
